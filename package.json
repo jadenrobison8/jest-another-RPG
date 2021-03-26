@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/jadenrobison8/jest-another-RPG#readme",
   "dependencies": {
-    "inquirer": "^7.0.3",
+    "inquirer": "^7.3.3",
     "jest": "^24.9.0"
   }
 }
